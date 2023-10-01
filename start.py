@@ -10,6 +10,8 @@ print(100 + 1)
 # git config --global user.name <your name>
 # git config --global user.email <your email> not really sure how it works, need some research
 
+# ren <"file name"> <"new file name">
+
 print("This is a line on my first branch")
 
 sasha_cutie = True
