@@ -7,7 +7,8 @@ print(100 + 1)
 # git push --- because "-u" memorised what we used
 # git pull origin master 
 # we pull from origin that we set up using the link, and we pull the master branch from there
-
+# git config --global user.name <your name>
+# git config --global user.email <your email> not really sure how it works, need some research
 
 print("This is a line on my first branch")
 
